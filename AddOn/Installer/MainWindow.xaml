@@ -1,0 +1,29 @@
+﻿<Window x:Class="B1C.Installer.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Name="Window"
+	Title="MainWindow"
+	Width="460" Height="230" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="true" ShowInTaskbar="False" Topmost="True" Foreground="#FF1144F2" ContentRendered="Window_ContentRendered" BorderThickness="0" BorderBrush="SteelBlue">
+    <Window.Background>
+        <ImageBrush Stretch="None" ImageSource="IllumitiLogo.bmp" AlignmentX="Left" AlignmentY="Top" />
+    </Window.Background>
+    <Window.BitmapEffect>
+        <DropShadowBitmapEffect Color="Black" Direction="320"  
+        ShadowDepth="10" Softness="1" Opacity="0.5"/>
+    </Window.BitmapEffect>
+    <Grid Margin="0,20,7,30">
+    	<Grid.RowDefinitions>
+    		<RowDefinition Height="46"/>
+            <RowDefinition Height="18"/>
+            <RowDefinition Height="26"/>
+            <RowDefinition Height="*"/>
+    	</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="*" />
+		</Grid.ColumnDefinitions>
+        <Button HorizontalAlignment="Right" Name="closeButton" Width="26" Click="closeButton_Click" Margin="0" VerticalAlignment="Top" Height="26" Grid.Row="0" Background="{x:Null}" BorderBrush="Transparent" Foreground="SteelBlue">X</Button>
+        <Label Margin="26,6,12,0" Name="waitLabel" Grid.Row="1" Height="30" Grid.RowSpan="2" VerticalAlignment="Top" Foreground="LightSteelBlue"></Label>
+        <Label Margin="26,6,12,0" Name="productLabel" Grid.Row="2" Height="30" Grid.RowSpan="2" VerticalAlignment="Top" Foreground="SteelBlue" FontSize="11" FontWeight="Bold"></Label>
+        <Button HorizontalAlignment="Right" Name="createArdButton" Width="60" Margin="0" Height="26" Grid.Row="3" Background="{x:Null}" BorderBrush="Transparent" Foreground="White" VerticalAlignment="Bottom" Click="createArdButton_Click" Visibility="Hidden">ARD File</Button>
+    </Grid>
+</Window>
