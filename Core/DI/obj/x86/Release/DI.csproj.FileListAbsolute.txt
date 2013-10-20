@@ -1,0 +1,10 @@
+D:\TEMP\New Production\Core\DI\bin\x86\Release\B1C.SAP.DI.dll
+D:\TEMP\New Production\Core\DI\bin\x86\Release\B1C.SAP.DI.pdb
+D:\TEMP\New Production\Core\DI\bin\x86\Release\B1C.Utility.dll
+D:\TEMP\New Production\Core\DI\bin\x86\Release\B1C.Utility.pdb
+D:\TEMP\New Production\Core\DI\bin\x86\Release\Interop.SAPbobsCOM.dll
+D:\TEMP\New Production\Core\DI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\TEMP\New Production\Core\DI\obj\x86\Release\Interop.SAPbobsCOM.dll
+D:\TEMP\New Production\Core\DI\obj\x86\Release\DI.csproj.ResolveComReference.cache
+D:\TEMP\New Production\Core\DI\obj\x86\Release\B1C.SAP.DI.dll
+D:\TEMP\New Production\Core\DI\obj\x86\Release\B1C.SAP.DI.pdb

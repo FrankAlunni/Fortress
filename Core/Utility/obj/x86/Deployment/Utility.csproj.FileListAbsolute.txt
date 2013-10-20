@@ -1,0 +1,3 @@
+D:\TEMP\New Production\Core\Utility\bin\Deployment\B1C.Utility.dll
+D:\TEMP\New Production\Core\Utility\obj\x86\Deployment\ResolveAssemblyReference.cache
+D:\TEMP\New Production\Core\Utility\obj\x86\Deployment\B1C.Utility.dll

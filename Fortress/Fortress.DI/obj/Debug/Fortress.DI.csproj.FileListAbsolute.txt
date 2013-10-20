@@ -1,0 +1,12 @@
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\Debug\Fortress.DI.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\Debug\Fortress.DI.pdb
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\Debug\B1C.SAP.DI.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\Debug\B1C.Utility.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\Debug\Interop.SAPbobsCOM.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\Debug\B1C.SAP.DI.pdb
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\Debug\B1C.Utility.pdb
+D:\TEMP\New Production\Fortress\Fortress.DI\obj\Debug\ResolveAssemblyReference.cache
+D:\TEMP\New Production\Fortress\Fortress.DI\obj\Debug\Interop.SAPbobsCOM.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\obj\Debug\Fortress.DI.csproj.ResolveComReference.cache
+D:\TEMP\New Production\Fortress\Fortress.DI\obj\Debug\Fortress.DI.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\obj\Debug\Fortress.DI.pdb

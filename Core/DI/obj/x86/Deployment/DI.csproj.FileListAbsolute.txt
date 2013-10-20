@@ -1,0 +1,7 @@
+D:\TEMP\New Production\Core\DI\obj\x86\Deployment\ResolveAssemblyReference.cache
+D:\TEMP\New Production\Core\DI\obj\x86\Deployment\Interop.SAPbobsCOM.dll
+D:\TEMP\New Production\Core\DI\obj\x86\Deployment\DI.csproj.ResolveComReference.cache
+D:\TEMP\New Production\Core\DI\bin\Deployment\B1C.SAP.DI.dll
+D:\TEMP\New Production\Core\DI\bin\Deployment\B1C.Utility.dll
+D:\TEMP\New Production\Core\DI\bin\Deployment\Interop.SAPbobsCOM.dll
+D:\TEMP\New Production\Core\DI\obj\x86\Deployment\B1C.SAP.DI.dll

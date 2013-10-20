@@ -1,0 +1,10 @@
+D:\TEMP\New Production\AddOn\Installer\bin\Deployment\FortressConfigurator.exe
+D:\TEMP\New Production\AddOn\Installer\bin\Deployment\FortressConfigurator.pdb
+D:\TEMP\New Production\AddOn\Installer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TEMP\New Production\AddOn\Installer\obj\x86\Debug\MainWindow.baml
+D:\TEMP\New Production\AddOn\Installer\obj\x86\Debug\MainWindow.g.cs
+D:\TEMP\New Production\AddOn\Installer\obj\x86\Debug\App.g.cs
+D:\TEMP\New Production\AddOn\Installer\obj\x86\Debug\FortressConfigurator_MarkupCompile.cache
+D:\TEMP\New Production\AddOn\Installer\obj\x86\Debug\FortressConfigurator.g.resources
+D:\TEMP\New Production\AddOn\Installer\obj\x86\Debug\FortressConfigurator.exe
+D:\TEMP\New Production\AddOn\Installer\obj\x86\Debug\FortressConfigurator.pdb

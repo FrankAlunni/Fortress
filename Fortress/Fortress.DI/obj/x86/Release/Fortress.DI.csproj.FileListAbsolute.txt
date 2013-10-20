@@ -1,0 +1,12 @@
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\x86\Release\Fortress.DI.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\x86\Release\Fortress.DI.pdb
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\x86\Release\B1C.SAP.DI.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\x86\Release\B1C.Utility.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\x86\Release\Interop.SAPbobsCOM.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\x86\Release\B1C.SAP.DI.pdb
+D:\TEMP\New Production\Fortress\Fortress.DI\bin\x86\Release\B1C.Utility.pdb
+D:\TEMP\New Production\Fortress\Fortress.DI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\TEMP\New Production\Fortress\Fortress.DI\obj\x86\Release\Interop.SAPbobsCOM.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\obj\x86\Release\Fortress.DI.csproj.ResolveComReference.cache
+D:\TEMP\New Production\Fortress\Fortress.DI\obj\x86\Release\Fortress.DI.dll
+D:\TEMP\New Production\Fortress\Fortress.DI\obj\x86\Release\Fortress.DI.pdb
